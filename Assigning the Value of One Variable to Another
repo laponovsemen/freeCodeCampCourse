@@ -1,0 +1,8 @@
+//Hint 1
+//Variables can be assigned a value from a another variable. The value of the assigned variable will be the same value as the variable that was used to assign it.
+
+var a;
+a = 5; // The variable 'a' is equal to 5
+
+var abc;
+abc = a; // The variable 'abc' is equal to 5
