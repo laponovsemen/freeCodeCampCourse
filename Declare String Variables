@@ -1,0 +1,8 @@
+Hints
+Hint 1
+In JavaScript, variables are dynamic. That means they can hold numbers, strings, or any other data type at a given time. To declare a string, simply initialize (create) a variable:
+
+var a;
+Then, using single or double quotation marks, declare the string:
+
+a = "Hello Camper!";
